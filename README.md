@@ -1,2 +1,2 @@
 # leaflet-challenge
-Most of the logic.js code was taken from in-class activity Stu_GeoJson (Week 15-Mapping). 
+For this challenge, I used Leaflet (JavaScript library) to create a map for visualizaing earthquake data. The data that populates this map represents all earthquakes captured by the USGS in the last 7 days. Each marker on the map represents an earthquake; the size of the marker corresponds to its magnitude while the color corresponds to its depth. Most of the logic.js code was taken from in-class activity Stu_GeoJson (Week 15-Mapping). To view this map, please run the index.html file using live server. 
